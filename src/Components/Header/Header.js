@@ -44,6 +44,15 @@ const Balance = styled.div`
 
 const Img = styled.img`
     display: block;
+    width: 60px;
+    height: 40px;
+  align-self: center;
+
+
+  @media ${QUERIES.laptopAndUp} {
+    width: 72px;
+    height: 48px;
+  }
 `;
 
 
