@@ -24,7 +24,7 @@ html {
 html, body, #root {
   height: 100%;
   margin: 0;
-  background: HSL(240, 67%, 8%);
+  font-family: 'DM Sans', sans-serif;
 }
 
 
